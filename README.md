@@ -1,10 +1,10 @@
-# Git Shortcuts
+# T Shortcuts
 
-> Some useful aliases that I'm using for git commands.
+> Some useful aliases that I'm using in the terminal. Planned to extend the list with time goes by.
 
 ## Installation
 
-[[ -e ~/<path>/main.sh ]] && emulate sh -c 'source ~/<path>/main.sh'
+[[ -e ~/path_to_repo/main.sh ]] && emulate sh -c 'source ~/path_to_repo/main.sh'
 
 ## TODO
 
