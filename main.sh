@@ -1,5 +1,12 @@
-#! /bin/zsh
+#! /bin/zsg
 
+# General
+function mkcd() {
+  mkdir $1
+  cd $1
+}
+
+# Git
 alias gstts="git status"
 alias glg="git log"
 alias ga="git add"
